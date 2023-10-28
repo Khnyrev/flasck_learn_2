@@ -1,4 +1,5 @@
-Оплата не завелась из за конфликтов Flask 2.2.3 и cloudipsp 1.0.4 (нужно вернуться и разобраться)
+Оплата не завелась из-за конфликтов Flask 2.2.3 и cloudipsp 1.0.4 (нужно вернуться и разобраться )
+https://youtu.be/759C2p3CAA4?list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&t=2940
 
 FLASK_APP = main.py
 FLASK_ENV = development
